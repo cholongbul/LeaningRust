@@ -107,6 +107,6 @@ fn main() {
     // let element = a[index];
     // println!("요소의 값: {}", element);
 
-    
+
 
 }
