@@ -5,9 +5,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Function/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/flowcontroll/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/onwer_ship/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Function/target" />
       <excludeFolder url="file://$MODULE_DIR$/flowcontroll/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/onwer_ship/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
