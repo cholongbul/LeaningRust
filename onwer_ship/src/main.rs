@@ -121,10 +121,12 @@ fn main() {
     //그래서 변수 word는 아무런 쓸모가 없게 된다. -> 문자열 슬라이스를 통해 해결
 
     //4.3.1 문자열 슬라이스
-    let s = String::from("hello world");let
+    let s = String::from("hello world");
 
     let hello = &s[0..5]; //&s[..5] 0 생략 가능
     let world = &s[6..11];//&s[6..] 마지막 생략 가능
+
+
 
 
 
