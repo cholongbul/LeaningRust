@@ -7,11 +7,13 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/onwer_ship/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/learnstruct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/learnenums/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Function/target" />
       <excludeFolder url="file://$MODULE_DIR$/flowcontroll/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/onwer_ship/target" />
       <excludeFolder url="file://$MODULE_DIR$/learnstruct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/learnenums/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
