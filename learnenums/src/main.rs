@@ -91,7 +91,7 @@ fn main() {
     //6.3 if let을 이용한 간결한 흐름제어
     if let Some(3) = some_u8_value {
         println!("three");
-    }
+
 
 }
 
