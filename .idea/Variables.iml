@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/onwer_ship/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/learnstruct/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/learnenums/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/error_control/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/general_collection/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/package/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Function/target" />
@@ -16,6 +17,7 @@
       <excludeFolder url="file://$MODULE_DIR$/onwer_ship/target" />
       <excludeFolder url="file://$MODULE_DIR$/learnstruct/target" />
       <excludeFolder url="file://$MODULE_DIR$/learnenums/target" />
+      <excludeFolder url="file://$MODULE_DIR$/error_control/target" />
       <excludeFolder url="file://$MODULE_DIR$/general_collection/target" />
       <excludeFolder url="file://$MODULE_DIR$/package/target" />
     </content>
