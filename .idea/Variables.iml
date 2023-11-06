@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/error_control/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/general_collection/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/package/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generic/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Function/target" />
       <excludeFolder url="file://$MODULE_DIR$/flowcontroll/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
@@ -20,6 +21,7 @@
       <excludeFolder url="file://$MODULE_DIR$/error_control/target" />
       <excludeFolder url="file://$MODULE_DIR$/general_collection/target" />
       <excludeFolder url="file://$MODULE_DIR$/package/target" />
+      <excludeFolder url="file://$MODULE_DIR$/generic/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
